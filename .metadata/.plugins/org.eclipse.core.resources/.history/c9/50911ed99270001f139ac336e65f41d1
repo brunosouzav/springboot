@@ -1,0 +1,11 @@
+package com.project.apiteste.entities;
+
+public class User {
+
+	private Integer id;
+	private String name;
+	private String email;
+	private Integer id;
+	
+	
+}

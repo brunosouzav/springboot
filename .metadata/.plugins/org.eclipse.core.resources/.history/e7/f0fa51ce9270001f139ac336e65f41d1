@@ -1,0 +1,5 @@
+package com.project.apiteste.entities;
+
+public class User {
+
+}

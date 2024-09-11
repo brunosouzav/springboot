@@ -1,0 +1,5 @@
+package com.project.apiteste.resources;
+
+public class UserResource {
+
+}
