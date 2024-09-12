@@ -1,0 +1,9 @@
+package com.project.apiteste.repositories;
+
+public interface UserRepository {
+
+
+
+
+
+}
